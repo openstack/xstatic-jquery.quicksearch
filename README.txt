@@ -1,5 +1,5 @@
 XStatic-JQuery.quicksearch
---------------
+--------------------------
 
 JQuery.quicksearch JavaScript library packaged for setuptools (easy_install)
 / pip.
